@@ -1,2 +1,2 @@
-# SahilAgarwal321.github.io
+# sahil.sh
 Code for sahil.sh website.
